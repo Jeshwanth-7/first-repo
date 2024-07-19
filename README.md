@@ -1,4 +1,4 @@
 # first-repo
 Its my first repo
 <br>
-Author name - Jeshwanth
+Author name - Jeshwanth Neduri
